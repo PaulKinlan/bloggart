@@ -1,14 +1,14 @@
 # Name of the blog
-blog_name = 'My Blog'
+blog_name = 'Techie Stuff'
 
 # Your name (used for copyright info)
-author_name = 'the author'
+author_name = 'Paul Kinlan'
 
 # (Optional) slogan
-slogan = 'This is my blog'
+slogan = 'My blog about Bits and Bobs'
 
 # The hostname this site will primarially serve off (used for Atom feeds)
-host = 'localhost:8080'
+host = 'http://paul.kinlan.me'
 
 # Selects the theme to use. Theme names correspond to directories under
 # the 'themes' directory, containing templates and static content.
@@ -79,4 +79,4 @@ url_prefix = ''
 
 # Defines where the user is defined in the rel="me" of your pages.
 # This allows you to expand on your social graph.
-rel_me = None
+rel_me = "http://www.google.com/profiles/paul.kinlan"
